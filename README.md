@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishik0706 (Rishi Karan)
 - 👀 I’m interested in Java, Javascript and web Technologies
-- 🌱 I’m currently pursuing Post Graduate Diploma in Advanced Computing (PG-DAC) 
+- 🌱 I have completed Post Graduate Diploma in Advanced Computing (PG-DAC) from CDAC(Mumbai)
 - 📫 to contact me mail at rishikaran0706@gmail.com
 
 <!---
